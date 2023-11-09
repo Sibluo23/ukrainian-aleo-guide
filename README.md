@@ -1,4 +1,4 @@
-Guide was created by sibluo
+My discord nick: sibluo
 
 # Початок роботи з розробкою на платформі Aleo
 
